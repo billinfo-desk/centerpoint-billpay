@@ -18,7 +18,7 @@ This project is not affiliated with, endorsed by, or officially connected to Cen
 
 ## Live Page
 Once published via GitHub Pages, the page will be accessible at:
-https://billinfo-desk.github.io/centerpoint-energy-bill-pay/
+https://billinfo-desk.github.io/centerpoint-billpay/
 
 ## Publisher
 billinfo-desk
